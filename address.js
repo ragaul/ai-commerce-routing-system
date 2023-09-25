@@ -1,1 +1,1 @@
-(() => {address: "this is the address"})
+(()=>{address:"this is the address"})

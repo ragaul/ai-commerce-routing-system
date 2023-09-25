@@ -1,1 +1,1 @@
-(()=>{address:"this is the address"})()
+(()=>a={address:"this is the address"})()

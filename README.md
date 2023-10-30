@@ -1,7 +1,7 @@
 # ai-commerce-routing-system
 Just a CDN for my 'joke' ai-commerce project.
 
--> JSDeliver
+* JSDeliver
 https://cdn.jsdelivr.net/gh/{username}/{repo}@{version}/{path-to-file.ext}
 e.g. :
 - https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js --> dynamic to the latest

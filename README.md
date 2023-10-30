@@ -1,8 +1,8 @@
-<h2>ai-commerce-routing-system</h2>
+<h1>ai-commerce-routing-system</h1>
 <h5>Just a CDN for my 'joke' ai-commerce project.</h5>
 
 <h3>How to Turn any GitHub Repo into a CDN</h3>
-<h5>JSDeliver</h5>
+<h4>JSDeliver</h4>
 <b> Format: https://cdn.jsdelivr.net/gh/{username}/{repo}@{version}/{path-to-file.ext}</b>
 <br>
 <b>e.g. :</b>

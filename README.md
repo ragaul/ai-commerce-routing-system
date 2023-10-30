@@ -4,9 +4,9 @@
 <h5> Format : &nbsp https://cdn.jsdelivr.net/gh/{username}/{repo}@{version}/{path-to-file.ext} </h5>
 <strong> Usage details : </strong>
 <br>
-<li> https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js &nbsp &nbsp --> always point to the latest version </li>
-<li> https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js &nbsp &nbsp --> fixed major version </li>
-<li> https://cdn.jsdelivr.net/npm/jquery@3.7/dist/jquery.min.js &nbsp &nbsp --> fixed minor version </li>
+<li> https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js &nbsp --> always point to the latest version </li>
+<li> https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js &nbsp &nbsp &nbsp &nbsp --> fixed major version </li>
+<li> https://cdn.jsdelivr.net/npm/jquery@3.7/dist/jquery.min.js &nbsp &nbsp &nbsp --> fixed minor version </li>
 <li> https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js &nbsp &nbsp --> fixed version </li>
 <br><br>
 <em> to be continued </em>

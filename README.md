@@ -2,9 +2,9 @@
 
 <h4> JSDeliver </h4>
 <h5> Format :  https://cdn.jsdelivr.net/gh/{username}/{repo}@{version}/{path-to-file.ext} </h5>
-<strong> usage details : </strong>
+<strong> Usage details : </strong>
 <br>
-<li> https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js --> dynamic, always point to the latest version </li>
+<li> https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js --> always point to the latest version </li>
 <li> https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js --> fixed major version </li>
 <li> https://cdn.jsdelivr.net/npm/jquery@3.7/dist/jquery.min.js --> fixed minor version </li>
 <li> https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js --> fixed version </li>

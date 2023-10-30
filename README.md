@@ -1,5 +1,5 @@
 <h1> ai-commerce-routing-system </h1>
-<h5> Just a CDN for my 'joke' ai-commerce project. </h5>
+<p> Just a CDN for my 'joke' ai-commerce project. </p>
 
 <h3> How to Turn any GitHub Repo into a CDN </h3>
 <h4> JSDeliver </h4>
@@ -12,6 +12,6 @@
 <li> https://cdn.jsdelivr.net/npm/jquery@3.7/dist/jquery.min.js --> fixed minor version </li>
 <li> https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js --> fixed version </li>
 
+<i> to be continued </i><br>
 <h4> Statically </h4>
-<i>to be continued</i>
 <b> Format: https://cdn.statically.io/gh/jcubic/static/master/js/lzjb.js </b>

@@ -1,4 +1,4 @@
-<!-- v1.0.107; base-url=https://api.emirla.com -->
+<!-- v1.0.108; base-url=https://api.emirla.com -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,7 +9,7 @@
     <base href="__baseurl__">
     <link rel="stylesheet" data-name="opener" href="/assets/opener.css"></link>
     <script type="text/javascript" data-name="opener" src="/assets/opener.js" defer></script>
-    <script type="module" data-name="main" src="/assets/main.js"></script>
+    <script type="module" data-name="main" src="file:///D:/Project/electron/src/main.js"></script>
 </head>
 <body>
     <div id="app"></div>

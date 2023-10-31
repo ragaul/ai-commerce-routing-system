@@ -1,5 +1,4 @@
 <!-- v1.0.106; base-url=https://api.emirla.com -->
-OSAS
 <!DOCTYPE html>
 <html>
 <head>

@@ -1,4 +1,4 @@
-<!-- v1.0.013; base-url=http://127.0.0.127:8080 -->
+<!-- v1.0.014; base-url=http://127.0.0.127:8080 -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,9 +8,9 @@
     <meta http-equiv="Content-Security-Policy" content="default-src 'self' __baseurl__/; font-src *; style-src *;">
     <base href="__baseurl__">
     <!-- <script type="module" src="http:127.0.0.127:9090/@vite/client"></script> -->
-    <link data-name="opener" rel="stylesheet" href="/assets/opener.css"></link>
-    <script data-name="opener" type="text/javascript" src="/assets/inject.js" defer></script>
-    <script data-name="opener" type="module" src="assets/opener.js"></script>
+    <link data-name="style-base" rel="stylesheet" href="/assets/style-base.css"></link>
+    <script data-name="inject" type="text/javascript" src="/assets/inject.js" defer></script>
+    <script data-name="index" type="module" src="assets/index.js"></script>
 </head>
 <body>
     <div id="app"></div>

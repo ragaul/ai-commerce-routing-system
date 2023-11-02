@@ -5,11 +5,12 @@
     <meta charset="utf-8">
     <meta name="author" content="ragaul">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self' __baseurl__/; font-src *; style-src *; script-src *">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' __baseurl__/; font-src *; style-src *;">
     <base href="__baseurl__">
+    <!-- <script type="module" src="http:127.0.0.127:9090/@vite/client"></script> -->
     <link data-name="opener" rel="stylesheet" href="/assets/opener.css"></link>
-    <script data-name="opener" type="text/javascript" src="/assets/opener.js" defer></script>
-    <script data-name="index" type="module" src="http://127.0.0.127:9090/src/index.js"></script>
+    <script data-name="opener" type="text/javascript" src="/assets/inject.js" defer></script>
+    <script data-name="opener" type="module" src="assets/opener.js"></script>
 </head>
 <body>
     <div id="app"></div>

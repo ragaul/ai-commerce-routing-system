@@ -20,7 +20,7 @@
 <h4> Raw.Githack </h4>
 <strong> This service has 2 usage formats : </strong>
 <br>
-<li> https://raw.githack.com/gh/:user/:repo/:branch/:path-to-file.ext &nbsp --> New changes will be reflected instantly but excessive traffic will be throttled </li>
+<li> https://raw.githack.com/gh/:user/:repo/:branch/:path-to-file.ext &nbsp --> instant changes but traffic will be throttled </li>
 <li> https://raw.githack.com/gh/:user/repo/:commit-hash/:path-to-file.ext &nbsp --> files are cached permanently </li>
 <br><br>
 

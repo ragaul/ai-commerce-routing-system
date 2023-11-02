@@ -13,7 +13,6 @@
 
 <h4> Statically </h4>
 <h5> Format : &nbsp https://cdn.statically.io/gh/:user/:repo/:branch/:path-to-file.ext </h5>
-<br>
 <p> These branches are cached for only 1 day: main, master, dev, develop, and gh-pages. </p>
 <p> Otherwise, files will be cached on the CDN for 1 year. </p>
 <br><br>

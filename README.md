@@ -1,5 +1,5 @@
 <h1> How to Turn any GitHub Repo into a (Free) CDN </h1>
-<h5> <strong> NOTE : &nbsp </strong> Make sure you have made your repo public </h5>
+<h5><em> NOTE : &nbsp Make sure you have made your repo public </em></h5>
 
 <h4> JSDeliver </h4>
 <h5> Format : &nbsp https://cdn.jsdelivr.net/gh/{username}/{repo}@{version}/{path-to-file.ext} </h5>

@@ -1,4 +1,4 @@
-<!-- v1.0.014; base-url=http://127.0.0.127:8080 -->
+<!-- v1.0.015; base-url=http://127.0.0.127:8080 -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,7 +9,6 @@
     <base href="__baseurl__">
     <!-- <script type="module" src="http:127.0.0.127:9090/@vite/client"></script> -->
     <link data-name="style-base" rel="stylesheet" href="/assets/style-base.css"></link>
-    <script data-name="inject" type="text/javascript" src="/assets/inject.js" defer></script>
     <script data-name="index" type="module" src="assets/index.js"></script>
 </head>
 <body>

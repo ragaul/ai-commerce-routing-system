@@ -1,4 +1,4 @@
-<!-- v1.0.016; base-url=http://127.0.0.127:8080 -->
+<!-- v1.0.017; base-url=http://127.0.0.127:8080 -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Security-Policy" content="default-src 'self' __baseurl__/; font-src *; style-src *; img-src *">
     <base href="__baseurl__">
-    <link data-name="style-base" rel="stylesheet" href="/assets/style-base.css"></link>
-    <script data-name="index" type="module" src="assets/index.js"></script>
+    <link data-name="index" rel="stylesheet" href="/assets/index.css"></link>
+    <script data-name="index" type="module" src="/assets/index.js"></script>
 </head>
 <body>
     <div id="app"></div>
